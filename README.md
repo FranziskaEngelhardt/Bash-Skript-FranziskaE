@@ -1,6 +1,6 @@
 # Mein erstes Repostorium
 
-- 2023-03-13
+- Workshop 2023-03-13 bis 2023-03-14
 
 Hier liegt mein bash Skript aus dem Library carpentry Workshop. 
 - Author: Franziska Engelhardt
